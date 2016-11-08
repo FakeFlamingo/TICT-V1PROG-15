@@ -1,0 +1,7 @@
+Uitvoer 8_3A: B
+Uitvoer 8_3B: A  Goed antwoord: B
+Uitvoer 8_3C: A Deze had ik fout
+Uitvoer 8_3D:
+Uitvoer 8_3E:
+Uitvoer 8_3F:
+

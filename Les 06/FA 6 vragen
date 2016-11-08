@@ -1,0 +1,5 @@
+Geordend	Muteerbaar	Iterable	Dubbele waarden toegestaan
+Tuple	    nee	        ja	        ja
+Dictionary	ja	        ja	        keys = nee
+Set	        ja	        ja	        nee
+List	    ja	        ja	        ja
