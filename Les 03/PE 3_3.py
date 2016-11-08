@@ -8,4 +8,4 @@ def langGenoeg(Centimeter):
 
 
 Centimeter = int(input('Hoe lang ben je? '))
-res = langGenoeg(Centimeter)
+langGenoeg(Centimeter)

@@ -7,6 +7,7 @@ bedrijven = {
     'inBev': ['BUD']
 }
 
+
 def zoekTicker(bedrijfsnaam):
     print(bedrijven[bedrijfsnaam])
 
@@ -19,5 +20,3 @@ def zoekNaam(ticker):
 
 
 zoekNaam('GOOG')
-
-

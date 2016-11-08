@@ -23,5 +23,5 @@ def monopolyworp():
     print('------------------')
 
 
-for i in range(1,5000):
+for i in range(1, 5000):
     monopolyworp()

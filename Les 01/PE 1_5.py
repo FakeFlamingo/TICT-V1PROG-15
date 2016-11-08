@@ -8,5 +8,3 @@ favorieten.append('Wizkid')
 
 print(favorieten)
 
-
-rfrf

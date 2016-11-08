@@ -9,9 +9,8 @@ while invoer is not '':
         klas[invoer] += 1
     invoer = input('Vul uw naam in: ')
 
-
-for (key,value) in klas.items():
-            if value == 1:
-                print('Er is '+ str(value) +' student met de naam ' + str(key))
-            else:
-                print('Er zijn '+ str(value) +' studenten met de naam ' + str(key))
+for (key, value) in klas.items():
+    if value == 1:
+        print('Er is ' + str(value) + ' student met de naam ' + str(key))
+    else:
+        print('Er zijn ' + str(value) + ' studenten met de naam ' + str(key))

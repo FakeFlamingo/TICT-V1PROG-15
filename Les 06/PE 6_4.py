@@ -11,12 +11,5 @@ traject “bruin” ze niet allebei aandoen!"""
 
 print(bruin ^ groen)
 
-
-
-
-
-
-
-
 # #Print ook alle stations op beide trajecten uit. Print elk station maar 1! Gebruik weer een set-functie!
 print(bruin | groen)
